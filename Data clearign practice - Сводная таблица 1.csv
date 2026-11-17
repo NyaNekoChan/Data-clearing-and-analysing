@@ -1,0 +1,8 @@
+COUNTA из Occupants,Occupants,,,,
+Car Colour,1.0,2.0,3.0,4.0,Итого
+BLUE,72,,,,72
+GREEN,,69,,,69
+RED,,105,36,,141
+UNKNOWN,,14,1,14,29
+YELLOW,6,9,,,15
+Итого,78,197,37,14,326
